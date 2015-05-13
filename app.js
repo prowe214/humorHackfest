@@ -1,4 +1,4 @@
-ounterOne = document.getElementsByClassName("joke1");
+var counterOne = document.getElementsByClassName("joke1");
 
 var counterTwo = document.getElementsByClassName("joke2");
 
