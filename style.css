@@ -1,0 +1,33 @@
+
+dy {
+    background:#d4fee5;
+      font-family: verdana;
+      text-align:center;
+      margin: 2%;
+    }
+
+    input {
+        background: #cefffb;
+      }
+      img {
+          border: 10px solid black;
+            border-radius:10px;
+              margin-bottom:2%;
+            }
+            h1 {
+                font-family:courier;
+              }
+              button {
+                  border: none;
+                    padding: 10px;
+                      color: white;
+                        background:#e59f15;
+                          margin: 2%;
+                            border-radius:5px;
+                          }
+                          input {
+                              margin-top: 2%;
+                                border-radius: 5px;
+                              }
+
+
